@@ -1,19 +1,5 @@
 # purplemangoes_stackup
-Project Name
-Long Description about project. This project do that. This project is awesome...
-
-Team members
-Name [Embed personal github URL]
-Name [Embed perosnal github URL]
-Team Id
-Team id here
-
-Link to product walkthrough
-[link to video]
-
-How it Works ?
-Project Name
-Long Description about project. This project do that. This project is awesome...
+Electron is an electronics shopping website aimed for hassle free purchase of product and user friendly experience.Users can login to their accounts or sign up to create an account if they don't have one,this provides users with personalised products and attractive contents.The user can view various sections like mobile ,laptops to view a wide range variety of products offered by our website ,Electron.We also have an admin panel that enables authorised companies or business to add products to our website and host them online for commercial purposes.Users can dig deep into product details before adding them to the cart and checking out.
 
 Team members
 Jovin Johny Kassi [jovinkassi]
@@ -30,20 +16,11 @@ How it Works ?
 
 Embed video of project demo
 Libraries used
-Library Name - Version
+
 nodejs -v20.9.0
 
 How to configure
-Instructions for setting up project
+To configure a fully functional electronics e commerce website,there are few steps.A reliable platform must be chosen to launch and set up the online website.Its important to ensure a user-friendly interface by aligning the website design with the electronics products.The home page must contain a robust product catalog with detailed descriptions,quality images,company logo , specifications and price for each electronic item.Add responsive design for mobile compatibility.Also take care of security measures so that user information remains safe and protected.Product listing must be regularly updated depending upon the current trend and must use strategies to stay alive in the tough competitive global e commerce market .
 
 How to Run
-Instructions for running
-Embed video of project demo
-Libraries used
-Library Name - Version
-
-How to configure
-Instructions for setting up project
-
-How to Run
-Instructions for running
+To run the code simply type 'npm start ' in vs code,the frontend will be displayed In the web browser.
